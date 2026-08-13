@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "description": "本项目通过大模型联动爬虫，检索Github上所有存有有价值漏洞信息与漏洞POC或规则信息的项目，并自动识别项目的目录结构、Readme信息后进行总结分析并分类，所汇总的项目可以帮助安全行业从业者收集漏洞信息、POC信息、规则等。",
+      "items": [],
+      "title": "项目介绍"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "基于 GithubGather",
+          "description": "使用Token代理池遍历爬取Github项目数据",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-05T18:15:23Z",
+            "owner": "xu-xiang",
+            "repo": "GithubGather",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "基于 aiflows",
+          "description": "对爬取到的数据进行LLM分析，产出结果",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-05T18:05:30Z",
+            "owner": "xu-xiang",
+            "repo": "aiflows",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "LLM分析过程"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:08.389Z",
+    "original_repository": "xu-xiang/awesome-security-vul-llm",
+    "original_repository_sha": "3b66a256befb5e7a769f07577a41c3ca82b6d00e",
+    "enhanced_repository": "enhansome/enhansome-security-vul-llm",
+    "enhanced_repository_description": null,
+    "title": "Awesome Security Vulnerability Project(By LLM) with stars"
+  }
+}
