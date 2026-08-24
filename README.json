@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365272
+            "stars": 365301
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-21T00:10:40Z",
             "owner": "ruanyf",
             "repo": "weekly",
-            "stars": 101115
+            "stars": 101151
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-04-17T09:44:37Z",
             "owner": "xitu",
             "repo": "gold-miner",
-            "stars": 34329
+            "stars": 34330
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-06-06T02:54:19Z",
             "owner": "ffffffff0x",
             "repo": "1earn",
-            "stars": 5705
+            "stars": 5706
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 458364565,
             "language": null,
-            "last_commit": "2026-08-24T03:32:59Z",
+            "last_commit": "2026-08-24T14:04:09Z",
             "owner": "github",
             "repo": "advisory-database",
             "stars": 2435
@@ -306,7 +306,7 @@
             "last_commit": "2025-09-22T03:36:28Z",
             "owner": "bfengj",
             "repo": "CTF",
-            "stars": 448
+            "stars": 449
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 425661780,
             "language": "HTML",
-            "last_commit": "2026-08-24T01:59:46Z",
+            "last_commit": "2026-08-24T13:16:18Z",
             "owner": "SummerSec",
             "repo": "BlogPapers",
             "stars": 60
@@ -701,21 +701,6 @@
         },
         {
           "node_type": "item",
-          "title": "wukong-bin/PeiQi-WIKI-POC",
-          "description": "PeiQi WiKi-POC文库提供了环境搭建、POC及漏洞原理等知识，帮助人们学习各种漏洞相关信息。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 416959141,
-            "language": "HTML",
-            "last_commit": "2021-10-14T02:17:23Z",
-            "owner": "wukong-bin",
-            "repo": "PeiQi-WIKI-POC",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
           "title": "NuclearAtk/lcx.cc",
           "description": "个人博客网站，可能存在 XSS 攻击风险，可作为学习资料和练习目标。",
           "children": [],
@@ -741,6 +726,21 @@
             "last_commit": "2026-08-13T00:54:47Z",
             "owner": "zmerry",
             "repo": "z-marvel.github.io",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wukong-bin/PeiQi-WIKI-POC",
+          "description": "PeiQi WiKi-POC文库提供了环境搭建、POC及漏洞原理等知识，帮助人们学习各种漏洞相关信息。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 416959141,
+            "language": "HTML",
+            "last_commit": "2021-10-14T02:17:23Z",
+            "owner": "wukong-bin",
+            "repo": "PeiQi-WIKI-POC",
             "stars": 3
           }
         },
@@ -834,10 +834,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-23T11:08:38Z",
+            "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73032
+            "stars": 73038
           }
         },
         {
@@ -849,10 +849,10 @@
             "archived": false,
             "id": 2293158,
             "language": "Ruby",
-            "last_commit": "2026-08-24T01:29:12Z",
+            "last_commit": "2026-08-24T13:11:53Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38853
+            "stars": 38861
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2026-07-15T18:04:38Z",
             "owner": "shadow1ng",
             "repo": "fscan",
-            "stars": 14431
+            "stars": 14435
           }
         },
         {
@@ -879,10 +879,10 @@
             "archived": false,
             "id": 253044228,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T05:56:28Z",
+            "last_commit": "2026-08-24T13:03:44Z",
             "owner": "projectdiscovery",
             "repo": "nuclei-templates",
-            "stars": 12829
+            "stars": 12832
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2024-10-29T16:15:53Z",
             "owner": "chaitin",
             "repo": "xray",
-            "stars": 11720
+            "stars": 11719
           }
         },
         {
@@ -924,10 +924,10 @@
             "archived": false,
             "id": 34847907,
             "language": "Lua",
-            "last_commit": "2026-08-22T18:09:40Z",
+            "last_commit": "2026-08-24T14:15:15Z",
             "owner": "ntop",
             "repo": "ntopng",
-            "stars": 8104
+            "stars": 8106
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-22T03:07:36Z",
             "owner": "Mr-xn",
             "repo": "Penetration_Testing_POC",
-            "stars": 7467
+            "stars": 7468
           }
         },
         {
@@ -957,7 +957,7 @@
             "last_commit": "2024-07-12T13:23:48Z",
             "owner": "GhostTroops",
             "repo": "scan4all",
-            "stars": 6166
+            "stars": 6165
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2026-05-11T10:27:26Z",
             "owner": "Threekiii",
             "repo": "Awesome-POC",
-            "stars": 5164
+            "stars": 5165
           }
         },
         {
@@ -984,10 +984,10 @@
             "archived": false,
             "id": 31028375,
             "language": "HTML",
-            "last_commit": "2026-08-24T05:17:42Z",
+            "last_commit": "2026-08-24T14:34:00Z",
             "owner": "DefectDojo",
             "repo": "django-DefectDojo",
-            "stars": 4908
+            "stars": 4906
           }
         },
         {
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-08-04T03:32:34Z",
             "owner": "zan8in",
             "repo": "afrog",
-            "stars": 4372
+            "stars": 4371
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-05-09T06:56:53Z",
             "owner": "selinuxG",
             "repo": "Golin",
-            "stars": 1846
+            "stars": 1847
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-08-04T12:31:01Z",
             "owner": "78778443",
             "repo": "QingScan",
-            "stars": 1830
+            "stars": 1831
           }
         },
         {
@@ -1212,7 +1212,7 @@
             "last_commit": "2018-12-20T06:44:47Z",
             "owner": "SecWiki",
             "repo": "CMS-Hunter",
-            "stars": 1766
+            "stars": 1767
           }
         },
         {
@@ -1269,7 +1269,7 @@
             "archived": false,
             "id": 398282332,
             "language": "Rust",
-            "last_commit": "2026-08-23T06:45:11Z",
+            "last_commit": "2026-08-24T12:55:28Z",
             "owner": "0x727",
             "repo": "FingerprintHub",
             "stars": 1436
@@ -1302,7 +1302,7 @@
             "last_commit": "2023-07-08T08:10:42Z",
             "owner": "al0ne",
             "repo": "suricata-rules",
-            "stars": 1281
+            "stars": 1282
           }
         },
         {
@@ -1329,7 +1329,7 @@
             "archived": false,
             "id": 571612478,
             "language": "Python",
-            "last_commit": "2026-08-21T18:56:31Z",
+            "last_commit": "2026-08-24T14:35:14Z",
             "owner": "CERT-Polska",
             "repo": "Artemis",
             "stars": 1200
@@ -1602,7 +1602,7 @@
             "last_commit": "2023-03-22T05:37:07Z",
             "owner": "zema1",
             "repo": "yarx",
-            "stars": 426
+            "stars": 425
           }
         },
         {
@@ -1614,7 +1614,7 @@
             "archived": false,
             "id": 503688932,
             "language": "Go",
-            "last_commit": "2026-08-24T05:50:40Z",
+            "last_commit": "2026-08-24T14:23:31Z",
             "owner": "sari3l",
             "repo": "Poc-Monitor",
             "stars": 419
@@ -1929,7 +1929,7 @@
             "archived": false,
             "id": 321667770,
             "language": null,
-            "last_commit": "2026-08-24T06:18:47Z",
+            "last_commit": "2026-08-24T13:14:02Z",
             "owner": "Patrowl",
             "repo": "PatrowlHearsData",
             "stars": 147
@@ -2049,7 +2049,7 @@
             "archived": false,
             "id": 482229396,
             "language": null,
-            "last_commit": "2026-08-20T11:37:57Z",
+            "last_commit": "2026-08-24T10:57:04Z",
             "owner": "adampielak",
             "repo": "nuclei-templates",
             "stars": 94
@@ -3015,7 +3015,7 @@
             "archived": false,
             "id": 454015416,
             "language": "HTML",
-            "last_commit": "2026-08-23T17:18:41Z",
+            "last_commit": "2026-08-24T11:56:40Z",
             "owner": "trickest",
             "repo": "cve",
             "stars": 8021
@@ -3060,10 +3060,10 @@
             "archived": false,
             "id": 457006774,
             "language": null,
-            "last_commit": "2026-08-24T06:13:46Z",
+            "last_commit": "2026-08-24T14:29:44Z",
             "owner": "CVEProject",
             "repo": "cvelistV5",
-            "stars": 2926
+            "stars": 2927
           }
         },
         {
@@ -3078,7 +3078,7 @@
             "last_commit": "2024-03-14T15:05:53Z",
             "owner": "threedr3am",
             "repo": "learnjavabug",
-            "stars": 2688
+            "stars": 2687
           }
         },
         {
@@ -3123,7 +3123,7 @@
             "last_commit": "2021-01-29T21:44:06Z",
             "owner": "Viralmaniar",
             "repo": "BigBountyRecon",
-            "stars": 1563
+            "stars": 1564
           }
         },
         {
@@ -3735,7 +3735,7 @@
             "archived": false,
             "id": 670941879,
             "language": null,
-            "last_commit": "2026-08-24T06:12:58Z",
+            "last_commit": "2026-08-24T12:08:36Z",
             "owner": "aquasecurity",
             "repo": "vuln-list-nvd",
             "stars": 15
@@ -4080,7 +4080,7 @@
             "archived": false,
             "id": 670577760,
             "language": null,
-            "last_commit": "2026-08-24T01:11:41Z",
+            "last_commit": "2026-08-24T12:51:52Z",
             "owner": "bitfront-se",
             "repo": "vuln-list-temp",
             "stars": 2
@@ -4274,7 +4274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:23:41.897Z",
+    "last_updated": "2026-08-24T14:35:44.245Z",
     "original_repository": "xu-xiang/awesome-security-vul-llm",
     "original_repository_id": 729840012,
     "original_repository_sha": "3b66a256befb5e7a769f07577a41c3ca82b6d00e",
