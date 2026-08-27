@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365616
+            "stars": 365659
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-26T04:09:20Z",
             "owner": "ruanyf",
             "repo": "weekly",
-            "stars": 101396
+            "stars": 101415
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 458364565,
             "language": null,
-            "last_commit": "2026-08-27T09:28:07Z",
+            "last_commit": "2026-08-27T16:47:28Z",
             "owner": "github",
             "repo": "advisory-database",
             "stars": 2441
@@ -171,7 +171,7 @@
             "last_commit": "2026-04-01T02:23:55Z",
             "owner": "MrWQ",
             "repo": "vulnerability-paper",
-            "stars": 2038
+            "stars": 2039
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-07-20T15:37:42Z",
             "owner": "ReAbout",
             "repo": "web-sec",
-            "stars": 1943
+            "stars": 1944
           }
         },
         {
@@ -834,10 +834,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-26T11:12:02Z",
+            "last_commit": "2026-08-27T15:51:06Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73120
+            "stars": 73124
           }
         },
         {
@@ -852,7 +852,7 @@
             "last_commit": "2026-08-27T11:50:24Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38891
+            "stars": 38893
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2026-08-25T20:43:51Z",
             "owner": "shadow1ng",
             "repo": "fscan",
-            "stars": 14457
+            "stars": 14461
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2026-08-27T06:11:31Z",
             "owner": "projectdiscovery",
             "repo": "nuclei-templates",
-            "stars": 12859
+            "stars": 12863
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2024-10-29T16:15:53Z",
             "owner": "chaitin",
             "repo": "xray",
-            "stars": 11721
+            "stars": 11720
           }
         },
         {
@@ -924,10 +924,10 @@
             "archived": false,
             "id": 34847907,
             "language": "Lua",
-            "last_commit": "2026-08-27T10:36:04Z",
+            "last_commit": "2026-08-27T14:05:58Z",
             "owner": "ntop",
             "repo": "ntopng",
-            "stars": 8115
+            "stars": 8116
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2026-05-11T10:27:26Z",
             "owner": "Threekiii",
             "repo": "Awesome-POC",
-            "stars": 5171
+            "stars": 5174
           }
         },
         {
@@ -984,7 +984,7 @@
             "archived": false,
             "id": 31028375,
             "language": "HTML",
-            "last_commit": "2026-08-27T11:48:45Z",
+            "last_commit": "2026-08-27T16:46:50Z",
             "owner": "DefectDojo",
             "repo": "django-DefectDojo",
             "stars": 4910
@@ -1059,7 +1059,7 @@
             "archived": false,
             "id": 290152313,
             "language": "Shell",
-            "last_commit": "2026-08-25T10:28:35Z",
+            "last_commit": "2026-08-27T14:54:46Z",
             "owner": "e-m-b-a",
             "repo": "emba",
             "stars": 3615
@@ -1314,10 +1314,10 @@
             "archived": false,
             "id": 607880389,
             "language": "Python",
-            "last_commit": "2026-08-26T07:12:49Z",
+            "last_commit": "2026-08-27T14:30:53Z",
             "owner": "topscoder",
             "repo": "nuclei-wordfence-cve",
-            "stars": 1277
+            "stars": 1278
           }
         },
         {
@@ -1329,7 +1329,7 @@
             "archived": false,
             "id": 571612478,
             "language": "Python",
-            "last_commit": "2026-08-27T11:59:01Z",
+            "last_commit": "2026-08-27T13:09:02Z",
             "owner": "CERT-Polska",
             "repo": "Artemis",
             "stars": 1199
@@ -1764,7 +1764,7 @@
             "archived": false,
             "id": 622876656,
             "language": "Python",
-            "last_commit": "2026-08-26T03:04:01Z",
+            "last_commit": "2026-08-27T12:19:32Z",
             "owner": "Tyaoo",
             "repo": "picker",
             "stars": 254
@@ -1779,7 +1779,7 @@
             "archived": false,
             "id": 568060190,
             "language": "Python",
-            "last_commit": "2026-08-26T03:08:07Z",
+            "last_commit": "2026-08-27T12:15:42Z",
             "owner": "chainreactors",
             "repo": "picker",
             "stars": 236
@@ -1929,7 +1929,7 @@
             "archived": false,
             "id": 321667770,
             "language": null,
-            "last_commit": "2026-08-27T11:07:19Z",
+            "last_commit": "2026-08-27T16:07:00Z",
             "owner": "Patrowl",
             "repo": "PatrowlHearsData",
             "stars": 147
@@ -2367,7 +2367,7 @@
             "last_commit": "2026-08-26T12:01:02Z",
             "owner": "trganda",
             "repo": "dockerv",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -3030,7 +3030,7 @@
             "archived": false,
             "id": 226668668,
             "language": null,
-            "last_commit": "2026-08-27T08:17:39Z",
+            "last_commit": "2026-08-27T14:11:18Z",
             "owner": "nomi-sec",
             "repo": "PoC-in-GitHub",
             "stars": 8019
@@ -3060,7 +3060,7 @@
             "archived": false,
             "id": 457006774,
             "language": null,
-            "last_commit": "2026-08-27T10:35:46Z",
+            "last_commit": "2026-08-27T16:42:27Z",
             "owner": "CVEProject",
             "repo": "cvelistV5",
             "stars": 2937
@@ -3108,7 +3108,7 @@
             "last_commit": "2024-08-02T17:31:12Z",
             "owner": "SleepingBag945",
             "repo": "dddd",
-            "stars": 1924
+            "stars": 1925
           }
         },
         {
@@ -3243,7 +3243,7 @@
             "last_commit": "2025-04-25T06:29:18Z",
             "owner": "jiayy",
             "repo": "android_vuln_poc-exp",
-            "stars": 798
+            "stars": 797
           }
         },
         {
@@ -3735,7 +3735,7 @@
             "archived": false,
             "id": 670941879,
             "language": null,
-            "last_commit": "2026-08-27T09:03:02Z",
+            "last_commit": "2026-08-27T15:40:25Z",
             "owner": "aquasecurity",
             "repo": "vuln-list-nvd",
             "stars": 15
@@ -4197,7 +4197,7 @@
             "archived": false,
             "id": 225999723,
             "language": null,
-            "last_commit": "2026-08-26T14:57:14Z",
+            "last_commit": "2026-08-27T14:57:14Z",
             "owner": "nomi-sec",
             "repo": "NVD-Database",
             "stars": 118
@@ -4274,7 +4274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:07.680Z",
+    "last_updated": "2026-08-27T16:48:33.525Z",
     "original_repository_info": {
       "archived": false,
       "id": 729840012,
