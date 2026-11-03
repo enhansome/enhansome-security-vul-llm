@@ -74,11 +74,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T16:08:41Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-03T09:30:09Z",
+            "open_issues": 3,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 371053,
+            "stars": 371143,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -115,10 +115,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-31T23:37:58Z",
-            "open_issues": 9991,
+            "open_issues": 10014,
             "owner": "ruanyf",
             "repo": "weekly",
-            "stars": 107426,
+            "stars": 107501,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -139,7 +139,7 @@
             "open_issues": 139,
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43865,
+            "stars": 43863,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -192,7 +192,7 @@
             "open_issues": 1,
             "owner": "ffffffff0x",
             "repo": "1earn",
-            "stars": 5729,
+            "stars": 5731,
             "topics": [
               "blueteam",
               "collection",
@@ -231,7 +231,7 @@
             "open_issues": 0,
             "owner": "PeiQi0",
             "repo": "PeiQi-WIKI-Book",
-            "stars": 4123,
+            "stars": 4124,
             "topics": [
               "0day",
               "1day",
@@ -255,11 +255,11 @@
             "id": 458364565,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-02T12:35:49Z",
-            "open_issues": 1477,
+            "last_commit": "2026-11-03T12:37:25Z",
+            "open_issues": 1478,
             "owner": "github",
             "repo": "advisory-database",
-            "stars": 2541,
+            "stars": 2542,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -328,7 +328,7 @@
             "open_issues": 1,
             "owner": "ReAbout",
             "repo": "web-sec",
-            "stars": 1982,
+            "stars": 1983,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -402,7 +402,7 @@
             "open_issues": 2,
             "owner": "SexyBeast233",
             "repo": "SecBooks",
-            "stars": 1326,
+            "stars": 1327,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -699,7 +699,7 @@
             "open_issues": 2,
             "owner": "batermj",
             "repo": "data_sciences_campaign",
-            "stars": 112,
+            "stars": 111,
             "topics": [
               "algorithm-analysis",
               "algorithm-challenges",
@@ -843,7 +843,7 @@
             "id": 425661780,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-02T06:15:23Z",
+            "last_commit": "2026-11-03T01:02:06Z",
             "open_issues": 3,
             "owner": "SummerSec",
             "repo": "BlogPapers",
@@ -1198,7 +1198,7 @@
             "open_issues": 0,
             "owner": "TheTh1nk3r",
             "repo": "RedTeamLinks",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -1284,11 +1284,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-02T11:11:01Z",
+            "last_commit": "2026-11-03T11:11:13Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74486,
+            "stars": 74516,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -1305,11 +1305,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T01:02:20Z",
-            "open_issues": 631,
+            "last_commit": "2026-11-03T12:24:55Z",
+            "open_issues": 622,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39292,
+            "stars": 39300,
             "topics": [
               "hacktoberfest"
             ]
@@ -1332,7 +1332,7 @@
             "open_issues": 14,
             "owner": "shadow1ng",
             "repo": "fscan",
-            "stars": 14732,
+            "stars": 14734,
             "topics": [
               "fscan",
               "scanner",
@@ -1356,11 +1356,11 @@
             "id": 253044228,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T06:55:29Z",
-            "open_issues": 125,
+            "last_commit": "2026-11-03T11:12:02Z",
+            "open_issues": 111,
             "owner": "projectdiscovery",
             "repo": "nuclei-templates",
-            "stars": 13272,
+            "stars": 13279,
             "topics": [
               "bugbounty",
               "exploit-development",
@@ -1392,7 +1392,7 @@
             "open_issues": 70,
             "owner": "chaitin",
             "repo": "xray",
-            "stars": 11779,
+            "stars": 11786,
             "topics": [
               "passive-vulnerability-scanner",
               "poc",
@@ -1421,7 +1421,7 @@
             "open_issues": 31,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10646,
+            "stars": 10647,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1444,11 +1444,11 @@
             "id": 34847907,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T12:44:02Z",
+            "last_commit": "2026-11-03T12:58:41Z",
             "open_issues": 317,
             "owner": "ntop",
             "repo": "ntopng",
-            "stars": 8321,
+            "stars": 8324,
             "topics": [
               "cybersecurity",
               "docker",
@@ -1484,7 +1484,7 @@
             "open_issues": 0,
             "owner": "Mr-xn",
             "repo": "Penetration_Testing_POC",
-            "stars": 7554,
+            "stars": 7557,
             "topics": [
               "authentication-bypass",
               "bypass",
@@ -1525,7 +1525,7 @@
             "open_issues": 14,
             "owner": "GhostTroops",
             "repo": "scan4all",
-            "stars": 6189,
+            "stars": 6190,
             "topics": [
               "0day",
               "attack",
@@ -1567,7 +1567,7 @@
             "open_issues": 3,
             "owner": "Threekiii",
             "repo": "Awesome-POC",
-            "stars": 5238,
+            "stars": 5241,
             "topics": [
               "poc"
             ]
@@ -1586,11 +1586,11 @@
             "id": 31028375,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-02T12:55:44Z",
-            "open_issues": 270,
+            "last_commit": "2026-11-03T08:20:34Z",
+            "open_issues": 260,
             "owner": "DefectDojo",
             "repo": "django-DefectDojo",
-            "stars": 5181,
+            "stars": 5183,
             "topics": [
               "analytics",
               "appsec",
@@ -1623,11 +1623,11 @@
             "id": 463027648,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-02T00:28:58Z",
+            "last_commit": "2026-11-03T04:32:54Z",
             "open_issues": 110,
             "owner": "zan8in",
             "repo": "afrog",
-            "stars": 4450,
+            "stars": 4453,
             "topics": [
               "afrog",
               "bug-bounty",
@@ -1657,7 +1657,7 @@
             "open_issues": 3,
             "owner": "zhzyker",
             "repo": "exphub",
-            "stars": 4294,
+            "stars": 4293,
             "topics": [
               "cve-2020-10199",
               "cve-2020-10204",
@@ -1738,7 +1738,7 @@
             "open_issues": 28,
             "owner": "ambionics",
             "repo": "phpggc",
-            "stars": 3914,
+            "stars": 3913,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -1755,11 +1755,11 @@
             "id": 290152313,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T07:46:47Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-03T09:31:21Z",
+            "open_issues": 15,
             "owner": "e-m-b-a",
             "repo": "emba",
-            "stars": 3745,
+            "stars": 3748,
             "topics": [
               "artificial-intelligence",
               "binary-analysis",
@@ -1832,7 +1832,7 @@
             "open_issues": 2,
             "owner": "qazbnm456",
             "repo": "awesome-cve-poc",
-            "stars": 3547,
+            "stars": 3546,
             "topics": [
               "awesome",
               "cve",
@@ -1857,7 +1857,7 @@
             "open_issues": 75,
             "owner": "fofapro",
             "repo": "vulfocus",
-            "stars": 3503,
+            "stars": 3502,
             "topics": [
               "docker",
               "vulfocus",
@@ -1885,7 +1885,7 @@
             "open_issues": 4,
             "owner": "ExpLangcn",
             "repo": "NucleiTP",
-            "stars": 2875,
+            "stars": 2877,
             "topics": [
               "hack-tools",
               "hacker",
@@ -1911,7 +1911,7 @@
             "open_issues": 84,
             "owner": "jorhelp",
             "repo": "Ingram",
-            "stars": 2413,
+            "stars": 2412,
             "topics": [
               "camera",
               "cctv",
@@ -2120,11 +2120,11 @@
             "id": 398282332,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-02T05:00:42Z",
+            "last_commit": "2026-11-03T00:44:33Z",
             "open_issues": 0,
             "owner": "0x727",
             "repo": "FingerprintHub",
-            "stars": 1447,
+            "stars": 1449,
             "topics": [
               "fingerprinting",
               "nuclei-templates",
@@ -2192,7 +2192,7 @@
             "id": 607880389,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T11:40:53Z",
+            "last_commit": "2026-11-03T11:19:13Z",
             "open_issues": 0,
             "owner": "topscoder",
             "repo": "nuclei-wordfence-cve",
@@ -2260,11 +2260,11 @@
             "id": 571612478,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-02T12:56:10Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-03T12:34:06Z",
+            "open_issues": 56,
             "owner": "CERT-Polska",
             "repo": "Artemis",
-            "stars": 1252,
+            "stars": 1254,
             "topics": [
               "artemis",
               "pentesting",
@@ -2361,7 +2361,7 @@
             "open_issues": 0,
             "owner": "luck-ying",
             "repo": "Library-POC",
-            "stars": 877,
+            "stars": 876,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -2409,7 +2409,7 @@
             "open_issues": 3,
             "owner": "izj007",
             "repo": "wechat",
-            "stars": 821,
+            "stars": 822,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -2497,7 +2497,7 @@
             "open_issues": 52,
             "owner": "KTZgraph",
             "repo": "sarenka",
-            "stars": 674,
+            "stars": 673,
             "topics": [
               "censys-api",
               "cve",
@@ -2741,7 +2741,7 @@
             "id": 503688932,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T08:34:20Z",
+            "last_commit": "2026-11-03T08:18:34Z",
             "open_issues": 0,
             "owner": "sari3l",
             "repo": "Poc-Monitor",
@@ -2767,7 +2767,7 @@
             "id": 23155070,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T19:01:44Z",
+            "last_commit": "2026-11-02T19:01:14Z",
             "open_issues": 1,
             "owner": "larsbijl",
             "repo": "trending_archive",
@@ -2984,8 +2984,8 @@
             "id": 622876656,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T08:52:06Z",
-            "open_issues": 1540,
+            "last_commit": "2026-11-03T09:03:03Z",
+            "open_issues": 1541,
             "owner": "Tyaoo",
             "repo": "picker",
             "stars": 259,
@@ -3005,7 +3005,7 @@
             "id": 568060190,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T08:34:17Z",
+            "last_commit": "2026-11-03T08:53:13Z",
             "open_issues": 32,
             "owner": "chainreactors",
             "repo": "picker",
@@ -3247,7 +3247,7 @@
             "id": 321667770,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T13:24:25Z",
+            "last_commit": "2026-11-03T12:24:39Z",
             "open_issues": 8,
             "owner": "Patrowl",
             "repo": "PatrowlHearsData",
@@ -3276,7 +3276,7 @@
             "id": 112371323,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T03:08:58Z",
+            "last_commit": "2026-11-03T03:10:43Z",
             "open_issues": 1,
             "owner": "olbat",
             "repo": "nvdcve",
@@ -3415,7 +3415,7 @@
             "id": 482229396,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-02T12:46:33Z",
+            "last_commit": "2026-11-03T12:06:39Z",
             "open_issues": 0,
             "owner": "adampielak",
             "repo": "nuclei-templates",
@@ -4002,8 +4002,8 @@
             "id": 340642806,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T15:06:31Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-02T19:58:56Z",
+            "open_issues": 15,
             "owner": "apache",
             "repo": "solr-site",
             "stars": 16,
@@ -4423,7 +4423,7 @@
             "id": 260362199,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T21:13:30Z",
+            "last_commit": "2026-11-02T21:38:47Z",
             "open_issues": 0,
             "owner": "vulsio",
             "repo": "msfdb-list",
@@ -4860,33 +4860,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "nomi-sec/PoC-in-GitHub",
-          "description": "该项目是PoC（Proof of Concept）集合，包含了各种各样的漏洞和攻击代码示例，包括但不限于CVE-2023-0045、CVE-2023-0099、CVE-2023-0156、CVE-2023-0157和CVE-2023-0159等，这些漏洞涵盖了多个方面的安全问题，如内存泄露、权限提升、文件包含和XSS攻击等。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
-            "homepage": "https://poc-in-github.motikan2010.net",
-            "id": 226668668,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-11-02T07:53:30Z",
-            "open_issues": 17,
-            "owner": "nomi-sec",
-            "repo": "PoC-in-GitHub",
-            "stars": 8176,
-            "topics": [
-              "cve",
-              "exploit",
-              "poc",
-              "security",
-              "vulnerability"
-            ]
-          },
-          "first_seen": "2026-08-28T17:42:33.598Z"
-        },
-        {
-          "node_type": "item",
           "title": "trickest/cve",
           "description": "CVE PoC提供近20年所有公开可用漏洞证明示例，自动更新和过滤功能。",
           "children": [],
@@ -4898,10 +4871,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-16T13:00:03Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "trickest",
             "repo": "cve",
-            "stars": 8175,
+            "stars": 8180,
             "topics": [
               "cve",
               "cve-poc",
@@ -4926,6 +4899,33 @@
         },
         {
           "node_type": "item",
+          "title": "nomi-sec/PoC-in-GitHub",
+          "description": "该项目是PoC（Proof of Concept）集合，包含了各种各样的漏洞和攻击代码示例，包括但不限于CVE-2023-0045、CVE-2023-0099、CVE-2023-0156、CVE-2023-0157和CVE-2023-0159等，这些漏洞涵盖了多个方面的安全问题，如内存泄露、权限提升、文件包含和XSS攻击等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
+            "homepage": "https://poc-in-github.motikan2010.net",
+            "id": 226668668,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-11-03T07:55:26Z",
+            "open_issues": 17,
+            "owner": "nomi-sec",
+            "repo": "PoC-in-GitHub",
+            "stars": 8175,
+            "topics": [
+              "cve",
+              "exploit",
+              "poc",
+              "security",
+              "vulnerability"
+            ]
+          },
+          "first_seen": "2026-08-28T17:42:33.598Z"
+        },
+        {
+          "node_type": "item",
           "title": "daffainfo/AllAboutBugBounty",
           "description": "收集各种漏洞信息和绕过机制，包括文件上传、跨站脚本攻击、拒绝服务攻击等。",
           "children": [],
@@ -4940,7 +4940,7 @@
             "open_issues": 3,
             "owner": "daffainfo",
             "repo": "AllAboutBugBounty",
-            "stars": 6955,
+            "stars": 6957,
             "topics": [
               "bug",
               "bugbounty",
@@ -4971,11 +4971,11 @@
             "id": 457006774,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-02T13:48:45Z",
+            "last_commit": "2026-11-03T12:55:30Z",
             "open_issues": 51,
             "owner": "CVEProject",
             "repo": "cvelistV5",
-            "stars": 3195,
+            "stars": 3203,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -5206,7 +5206,7 @@
             "open_issues": 1,
             "owner": "lal0ne",
             "repo": "vulnerability",
-            "stars": 969,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:33.598Z"
@@ -5227,7 +5227,7 @@
             "open_issues": 1,
             "owner": "RhinoSecurityLabs",
             "repo": "CVEs",
-            "stars": 906,
+            "stars": 907,
             "topics": [
               "cve",
               "security-research"
@@ -5448,7 +5448,7 @@
             "open_issues": 1,
             "owner": "Ares-X",
             "repo": "VulWiki",
-            "stars": 228,
+            "stars": 230,
             "topics": [
               "chinese",
               "cve",
@@ -5575,7 +5575,7 @@
             "id": 377762527,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-22T06:02:34Z",
+            "last_commit": "2026-11-03T06:19:58Z",
             "open_issues": 0,
             "owner": "KiritoLoveAsuna",
             "repo": "Exploits",
@@ -6008,7 +6008,7 @@
             "id": 670941879,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-02T12:06:48Z",
+            "last_commit": "2026-11-03T12:06:50Z",
             "open_issues": 0,
             "owner": "aquasecurity",
             "repo": "vuln-list-nvd",
@@ -6346,7 +6346,7 @@
             "id": 674350366,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-01T19:05:03Z",
+            "last_commit": "2026-11-03T06:05:04Z",
             "open_issues": 0,
             "owner": "CVEProject",
             "repo": "cve-reference-ingest-data",
@@ -6521,7 +6521,7 @@
             "id": 670577760,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-01T12:47:22Z",
+            "last_commit": "2026-11-03T00:37:10Z",
             "open_issues": 1,
             "owner": "bitfront-se",
             "repo": "vuln-list-temp",
@@ -6680,7 +6680,7 @@
             "id": 225999723,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-01T14:57:44Z",
+            "last_commit": "2026-11-02T14:57:44Z",
             "open_issues": 0,
             "owner": "nomi-sec",
             "repo": "NVD-Database",
@@ -6803,7 +6803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:50:41.840Z",
+    "last_updated": "2026-11-03T12:59:46.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "本项目通过大模型联动爬虫，检索Github上所有存有有价值漏洞信息与漏洞POC或规则信息的项目，并自动识别项目的目录结构、Readme信息后进行总结分析并分类，所汇总的项目可以帮助安全行业从业者收集漏洞信息、POC信息、规则等。",
